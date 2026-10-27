@@ -39,11 +39,11 @@ Raport przedstawia wybrane informacje dotyczące rozwoju polskiej Wikipedii oraz
 
 ### Pierwsza strona
 
-![Wikipedia – dane globalne](screenshots/Wikipedia_global.png)
+![Wikipedia – dane globalne](screenshots/wikipedia_1.png)
 
 ### Druga Strona
 
-![Wikipedia – Polska](screenshots/Wikipedia_polska.png)
+![Wikipedia – Polska](screenshots/wikipedia_2.png)
 
 
 
